@@ -29,7 +29,7 @@ export const socialLinks = [
   },
   {
     label: "WhatsApp schreiben",
-    href: "https://wa.me/41791234567",
+    href: "https://wa.me/41782418704",
     icon: MessageCircle,
     variant: "whatsapp" as const,
   },
